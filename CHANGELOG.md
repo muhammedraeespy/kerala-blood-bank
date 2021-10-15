@@ -4,11 +4,10 @@ All notable changes to this project will be documented in this file. See [standa
 
 ## [1.2.0](https://github.com/abjs/kerala-blood-bank/compare/v1.1.0...v1.2.0) (2021-10-15)
 
-
 ### Features
 
-* database created ([1fac49d](https://github.com/abjs/kerala-blood-bank/commit/1fac49d5ba7d2b55f8fc61cf35c335bf89169ce8))
-* prettier to project ([4280043](https://github.com/abjs/kerala-blood-bank/commit/4280043a390bb016d3e1249534bcf860bb836ed7))
+- database created ([1fac49d](https://github.com/abjs/kerala-blood-bank/commit/1fac49d5ba7d2b55f8fc61cf35c335bf89169ce8))
+- prettier to project ([4280043](https://github.com/abjs/kerala-blood-bank/commit/4280043a390bb016d3e1249534bcf860bb836ed7))
 
 ## 1.1.0 (2021-10-15)
 

@@ -5,7 +5,6 @@
 + Update database.json file with your info
 ```
 
-
 ## How To Contribute to database
 
 # [Go Web Site](https://abjs.github.io/kerala-blood-bank/)
