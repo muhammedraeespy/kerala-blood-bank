@@ -1,4 +1,4 @@
-# kerala-blood-bank
+# Kerala Blood Bank
 
 ```diff
 - Do Not Delete README.md  You can Improve the readability of the  document
