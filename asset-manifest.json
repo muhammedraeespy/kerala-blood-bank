@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kerala-blood-bank/static/css/main.8d065b76.chunk.css",
+    "main.js": "/kerala-blood-bank/static/js/main.ec2725c7.chunk.js",
+    "main.js.map": "/kerala-blood-bank/static/js/main.ec2725c7.chunk.js.map",
+    "runtime-main.js": "/kerala-blood-bank/static/js/runtime-main.498fe4b6.js",
+    "runtime-main.js.map": "/kerala-blood-bank/static/js/runtime-main.498fe4b6.js.map",
+    "static/js/2.f9e6bb60.chunk.js": "/kerala-blood-bank/static/js/2.f9e6bb60.chunk.js",
+    "static/js/2.f9e6bb60.chunk.js.map": "/kerala-blood-bank/static/js/2.f9e6bb60.chunk.js.map",
+    "index.html": "/kerala-blood-bank/index.html",
+    "static/css/main.8d065b76.chunk.css.map": "/kerala-blood-bank/static/css/main.8d065b76.chunk.css.map",
+    "static/js/2.f9e6bb60.chunk.js.LICENSE.txt": "/kerala-blood-bank/static/js/2.f9e6bb60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.498fe4b6.js",
+    "static/js/2.f9e6bb60.chunk.js",
+    "static/css/main.8d065b76.chunk.css",
+    "static/js/main.ec2725c7.chunk.js"
+  ]
+}
